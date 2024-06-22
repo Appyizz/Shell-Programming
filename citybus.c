@@ -231,11 +231,11 @@ int main()
 				printf("Logging out.\n"); 
 				loggedInUserId = -1; 
 				break; 
-			default: 
-				printf( 
-					"Invalid choice. Please try again.\n"); 
-			} 
-		} 
+    	default: 
+	 printf( 
+	  "Invalid choice. Please try again.\n"); 
+	} 
+	} 
 	} 
 
 	return 0; 
